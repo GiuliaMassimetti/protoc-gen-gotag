@@ -4,7 +4,7 @@ import (
 	pgs "github.com/lyft/protoc-gen-star/v2"
 	pgsgo "github.com/lyft/protoc-gen-star/v2/lang/go"
 
-	"github.com/srikrsna/protoc-gen-gotag/module"
+	"github.com/devoteamgcloud/protoc-gen-gotag/module"
 )
 
 func main() {
